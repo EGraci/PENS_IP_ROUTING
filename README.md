@@ -1,4 +1,4 @@
-# 🌐 Eksperimen IP Routing
+# 🌐 Praktikum IP Routing
 
 Eksperimen ini menguji komunikasi antar-PC dalam satu LAN dan komunikasi antar-LAN melalui router. Pengujian konektivitas dilakukan menggunakan `ping`.
 
