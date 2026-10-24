@@ -102,5 +102,3 @@ ping 192.168.2.2
 ```
 
 Alamat `192.168.2.2` pada contoh adalah PC5. Sesuaikan alamat tujuan dengan perangkat yang ingin diuji.
-
-> **Catatan:** Alamat IP PC, LAN, dan WAN dalam README ini merupakan contoh pengalamatan untuk topologi tiga LAN. Sesuaikan dengan konfigurasi aktual simulasi. PDF sumber menyebut beberapa alamat interface, tetapi tidak merinci alamat semua PC dan interface WAN.
